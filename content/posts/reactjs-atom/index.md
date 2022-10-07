@@ -1,5 +1,5 @@
 ---
-title: "Reactjs & Chemical Atom"
+title: "ReactJS & Chemical Atom"
 date: 2022-10-07T21:46:07+07:00
 draft: false
 ---

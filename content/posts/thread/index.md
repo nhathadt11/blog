@@ -36,3 +36,7 @@ Hệ thống cho phép thành phần kernel nhận diện thread và thread tabl
 2. *Nhược điểm:*
     - Tốn thời gian và tài Nguyên để quản lý thread
     - Khi thread được tạo mới và lưu trữ chậm vì cần thực hiện system call
+
+## Tham khảo
+
+- Modern Operating Systems 4th Edition by Andrew Tanenbaum and Herbert Bos
