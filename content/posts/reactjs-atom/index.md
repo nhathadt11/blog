@@ -4,6 +4,7 @@ date: 2022-10-07T21:46:07+07:00
 draft: false
 ---
 
+{{< figure src="posts/reactjs-atom/images/image1.png" title="ReactJS" >}}
 
 ReactJS - a very popular library for front-end development powered by Facebook. It was influenced by the XHP which is a template engine to generate HTML in PHP language. It was first achieved by a Facebook engineer after a negotiation with his manager to implement the idea of XHP for browser execution.
 
