@@ -47,8 +47,8 @@ Hòm thư trên server được chia thành nhiều thư mục (hộp thư đế
 ### Chuẩn bị
 
 - 1 hoặc 2 tài khoản Email
-    - Yahoo! Mail: **[sender.happy@yahoo.com](mailto:sender.happyyahoo.com),**password: **mysecr3t**
-    - Gmail: **[receiver.happy@gmail.com](mailto:receiver.happy@gmail.com),**password: **mysecr3t**
+    - Yahoo! Mail: [sender.happy@yahoo.com](mailto:sender.happyyahoo.com), password: **mysecr3t**
+    - Gmail: [receiver.happy@gmail.com](mailto:receiver.happy@gmail.com), password: **mysecr3t**
 - Thiết lập cho phép ứng dụng có tính bảo mật kém bảo mật hơn truy cập
     - Yahoo! Mail: Settings - Accounts Security - bật Allow apps that use less secure sign in
     - Gmail: Đăng nhập Gmail tại [https://myaccount.google.com/security](https://myaccount.google.com/security), Sign-in & Security – Sign in to Google, bật Allow less secure apps
