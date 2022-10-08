@@ -1,5 +1,5 @@
 ---
-title: "JD Mooncake Consumption 2022"
+title: "JD Mooncake Consumption in 2022’s Mid-Autumn Festival"
 date: 2022-10-07T23:40:18+07:00
 draft: false
 ---
