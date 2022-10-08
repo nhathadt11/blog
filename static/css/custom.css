@@ -1,4 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+
+body {
+    font-family: "Roboto Slab";
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: inherit;
+}
+
+a, a:hover, .post .draft-label {
+    color: #000;
+}
 
 .wrapper {
     max-width: 640px;
+}
+
+.post-tags .tags a, blockquote {
+    border-color: #000;
+}
+
+.post .post-content {
+    color: #5d686f;
+}
+
+.posts .post a.title {
+    font-size: 1.4rem;
 }

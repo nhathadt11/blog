@@ -19,6 +19,7 @@ summaryLength = 20
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	customDarkCss = "css/customdark.css"
 	mode = "auto" # "dark", "auto", "light"
 
 [[menu.main]]
