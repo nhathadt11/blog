@@ -18,6 +18,7 @@ summaryLength = 20
 	subtitle = "Personal blog "
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
+	customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 	mode = "auto" # "dark", "auto", "light"
 
 [[menu.main]]
