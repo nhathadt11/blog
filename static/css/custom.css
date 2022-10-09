@@ -17,10 +17,15 @@ a, a:hover, .post .draft-label {
     max-width: 640px;
 }
 
-.post-tags .tags a, blockquote {
+.post blockquote {
     border-color: #000;
     font-size: 1.15rem;
     font-family: inherit;
+}
+
+.post-tags .tags a {
+    border-color: #000;
+    color: #000;
 }
 
 .post .post-content {
