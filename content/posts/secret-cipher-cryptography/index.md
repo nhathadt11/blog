@@ -38,13 +38,13 @@ Once client and server now both hold the shared key to secure application data d
 
 HTTP over SSL/TLS uses symmetric and asymmetric encryption because symmetric encryption is way faster and more efficient than asymmetric encryption. There is a need for more secure transfer (confidentiality and integrity), the asymmetric is preferred.
 
-## So, is WeChat safe?
+## Is WeChat safe?
 
 Surprisingly WeChat does not offer end-to-end encryption. It only supports client-server encryption using the symmetric AES 256 algorithm. Since the mechanism is not end-to-end encryption, it always leaves there the possibility that a 3rd party or WeChat itself snoops or even makes a copy of encrypted messages through backdoor access. We never know what security measures are set in the middle of a transmission.
 
 Text and media messages only live on WeChat servers for 72 and 120 hours respectively and no one even 3rd translation service providers can make use of them for analytical purposes or data mining.
 
-WeChat only persists users’ messages on their devices. That’s why when you need to transfer the entire SQLite DB to your new devices. I believe Zalo and LINE use the same technique but they also offer cloud backup.
+WeChat only persists users’ messages on their devices. That’s why you need to transfer the entire SQLite DB to your new devices when you change your phone. I believe Zalo and LINE use the same technique but they also offer cloud backup.
 
 Though WeChat claims that its protection mechanism is safe, it faces a security risk. It ranked last in Amnesty International 2016 for security measurement. LINE and Zalo are shipped with end-to-end encryption but are not enabled by default or limited to message types.
 
