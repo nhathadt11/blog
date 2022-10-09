@@ -2,6 +2,7 @@
 title: "Thread"
 date: 2022-10-06T18:42:01+07:00
 draft: false
+tags: [os, threading]
 ---
 
 **Thread** là một phần của process, nhằm mục đích hạn chế thời gian context switch của process và tận dụng tối đa thời gian ma CPU giành cho process để xử lí nhiều hơn một chức năng của process đó.

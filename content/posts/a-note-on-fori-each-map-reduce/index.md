@@ -2,6 +2,7 @@
 title: "A note on Fori, Each, Map and Reduce"
 date: 2022-10-07T22:41:28+07:00
 draft: false
+tags: [javascript]
 ---
 
 An note on how to use fori, each, map, reduce or other similar functions.

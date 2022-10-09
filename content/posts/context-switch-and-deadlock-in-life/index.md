@@ -2,6 +2,7 @@
 title: "Context Switch and Deadlock in life"
 date: 2022-10-07T23:35:15+07:00
 draft: false
+tags: [os, life]
 ---
 
 Context switching of multiple tasking may affect performance in a bad way. The reason could be the practice of organizing known tasks or the problem of dealing with sudden incoming events. That is where prioritizing and time-boxing techniques come in. It is very similar to what is stated in the operating system, context switching requires time to save the state of the current process and reload the state of other processes the get it ready for running.

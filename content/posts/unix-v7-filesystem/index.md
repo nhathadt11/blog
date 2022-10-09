@@ -2,6 +2,7 @@
 title: "Unix v7 Filesystem"
 date: 2022-10-06T16:05:26+07:00
 draft: false
+tags: [os, filesystem]
 ---
 
 ## Filesystem

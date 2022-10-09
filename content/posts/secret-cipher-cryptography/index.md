@@ -2,6 +2,7 @@
 title: "Secret, Cipher, and Cryptography"
 date: 2022-10-08T23:59:47+07:00
 draft: false
+tags: [networking, chinese]
 ---
 
 ## Thers is some Chinese

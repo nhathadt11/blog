@@ -2,6 +2,7 @@
 title: "Spark More - 去发现，无限可能"
 date: 2022-10-07T23:07:32+07:00
 draft: false
+tags: [random, chinese]
 ---
 
 How many colors are there in this world? When do you start to reflect on yourself? How to stay curious forever?

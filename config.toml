@@ -1,9 +1,9 @@
 baseURL = 'https://nhathadt11.github.io/blog/'
 languageCode = 'en-us'
-title = "Rihe's Blog"
+title = "nhatha.dev"
 theme = "ezhil"
 
-copyright = "© Rihe"
+copyright = "© nhatha"
 
 pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
 summaryLength = 20
 
 [params]
-	subtitle = "Personal blog "
+	subtitle = "Personal blog"
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	customCSS = "css/custom.css"  # Custom CSS applied to default styles.
@@ -23,29 +23,29 @@ summaryLength = 20
 	mode = "auto" # "dark", "auto", "light"
 
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+	name = "Home"
+	url = "/"
+	weight = 1
 
 [[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
+	name = "All posts"
+	url = "/posts"
+	weight = 2
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 3
+	name = "Tags"
+	url = "/tags"
+	weight = 3
+
+[[menu.main]]
+	name = "About"
+	url = "/about"
+	weight = 4
 
 [[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/nhathadt11"
-
-[[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
+	name = "Github"
+	icon = "github"
+	url = "https://github.com/nhathadt11"
 
 [taxonomies]
-   tag = "tags"
+   	tag = "tags"

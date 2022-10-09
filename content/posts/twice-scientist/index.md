@@ -2,6 +2,7 @@
 title: "TWICE - Scientist"
 date: 2022-10-07T21:59:57+07:00
 draft: false
+tags: [random]
 ---
 
 Today's digital literacy (数字素养) discovered an MV of TWICE called SCIENTIST.

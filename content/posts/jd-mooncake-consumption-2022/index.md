@@ -2,6 +2,7 @@
 title: "JD Mooncake Consumption in 2022’s Mid-Autumn Festival"
 date: 2022-10-07T23:40:18+07:00
 draft: false
+tags: [ecommerce, report]
 ---
 
 A report note based on the writing of [Mooncake Consumption in 2022’s Mid-Autumn Festival](https://jdcorporateblog.com/traditional-flavors-still-top-mooncake-sales-ranking) by Doris Liu at [JD.com](http://jd.com/)

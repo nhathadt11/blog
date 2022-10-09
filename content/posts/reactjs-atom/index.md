@@ -2,6 +2,7 @@
 title: "ReactJS & Chemical Atom"
 date: 2022-10-07T21:46:07+07:00
 draft: false
+tags: [reactjs]
 ---
 
 {{< figure src="posts/reactjs-atom/images/image1.png" title="ReactJS" >}}

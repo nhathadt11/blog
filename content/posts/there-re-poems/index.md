@@ -2,6 +2,7 @@
 title: "There're poems"
 date: 2022-10-09T18:43:06+07:00
 draft: false
+tags: [random, poem]
 ---
 
 My reading categories are mostly about technology and engineering. I randomly picked up a book about digital writing and just read it. The book is more about literature. I was also skimming many samples on the internet to reflect what I read.

@@ -2,6 +2,7 @@
 title: "Gửi và nhận email bằng SMTP, POP3, IMAP"
 date: 2022-10-06T16:05:26+07:00
 draft: false
+tags: [networking, email]
 ---
 
 ## **SMTP**
