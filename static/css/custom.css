@@ -30,3 +30,8 @@ a, a:hover, .post .draft-label {
 .posts .post a.title {
     font-size: 1.4rem;
 }
+
+.post figcaption > h4 {
+    font-style: italic;
+    color: #999;
+}
