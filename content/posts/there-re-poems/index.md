@@ -21,7 +21,7 @@ For the first two lines, a language indeed represents a country’s culture. A l
 
 The last two lines represent the idea of coding. At a glance of reading a code fragment, you will just guess what the code does through the function name and a few lines of logic. If you are lacking experience with the code, you may fail to understand exactly what it does and introduce some bugs.
 
-The second one I created is about the COVID pandemic.
+Another is about the COVID pandemic.
 
 > Saigon, COVID is coming 😭\
 > I can’t just be sitting and doing nothing 😢\
