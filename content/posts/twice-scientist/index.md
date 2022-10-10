@@ -13,8 +13,6 @@ It is explained as a close-knit relationship between TWICE and their fandom - ON
 
 Mathematically, O + T = <3 can be translated as 1 + 2 = <3 or 1 + 2 <= 3 also results in a correct inequality. It turns out Formula of Love: O+T=<3 is the third album of the group.
 
-___
-
 今天通过数字素养发现了一个TWICE的视频 SCIENTIST。
 
 视频里你会看见一个出现很多次的等式。它就是Formula of LOVE（爱情的等式）O + T = <3。
@@ -23,6 +21,6 @@ ___
 
 O + T = <3用数字方法来翻译成1 + 2 = <3或1 + 2 <= 3，1 + 2 <= 3也是一个正确的不等式。原来Formula of Love: O+T=<3是TWICE的第三的音乐专辑。
 
-{{< figure src="posts/twice-scientist/images/image1.jpeg" title="TWICE Scientist MV" >}}
-
 이제부터는 MV 즐길 일만 남았네요.
+
+{{< figure src="posts/twice-scientist/images/image1.jpeg" title="TWICE Scientist MV" >}}
