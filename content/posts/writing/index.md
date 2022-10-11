@@ -2,6 +2,7 @@
 title: "Writing"
 date: 2022-10-10T23:56:07+07:00
 draft: false
+tags: [writing, literacy]
 ---
 
 Playing with words or doing literacy is great along with writing code. There is no doubt reading is good, many people agree with that but what about writing?
