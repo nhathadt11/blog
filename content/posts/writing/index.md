@@ -7,7 +7,7 @@ tags: [writing, literacy]
 
 Playing with words or doing literacy is great along with writing code. There is no doubt reading is good, many people agree with that but what about writing?
 
-What we were taught on basis? Given a topic, we first make an outline, then organize and fill it with words, sentences, paragraphs, and eventually an article using a wiring method. Contributing to that, there will also be a number of iterations of evaluation and revision. Think of it as the processing of how an artist does sketching and layering their drawings to finalize his work. The same goes for writing code and software development. The first version is usually not the best.
+What we were taught on basis? Given a topic, we first make an outline, then organize and fill it with words, sentences, paragraphs, and eventually an article using a writing method. Contributing to that, there will also be a number of iterations of evaluation and revision. Think of it as the processing of how an artist does sketching and layering their drawings to finalize his work. The same goes for writing code and software development. The first version is usually not the best.
 
 Writing helps to clarify and shape messy thoughts. Messy thoughts, come from many different sources. They can be generated during information exchanging, reading, or events happening in your everyday life. Things in the human brain sometimes are extremely complex that cannot be easily addressed in sessions of verbal talking. Writing or drawing on a physical object like a blackboard is always a super useful technique when it comes to expressing ideas and knowledge.
 
