@@ -5,6 +5,6 @@ draft: false
 tags: [javascript]
 ---
 
-An note on how to use fori, each, map, reduce or other similar functions.
+A note on how to use fori, each, map, reduce or other similar functions.
 
 {{< figure src="posts/a-note-on-fori-each-map-reduce/images/image1.png" title="Fori, Each, Map, and Reduce" >}}
