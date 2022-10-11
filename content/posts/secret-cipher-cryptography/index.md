@@ -5,7 +5,7 @@ draft: false
 tags: [networking, chinese]
 ---
 
-## Thers is some Chinese
+## There is some Chinese
 
 One of my Chinese learning partners posted on his WeChat 江姐：来，我告诉你一个大的秘密 coming with an image of two cats likely talking to each other. I had a chat with a Chinese friend a few minutes also about the privacy of WeChat. The word 秘密(secret) reminded me of the book about Ciphers & Cryptography. The idea of completing this dialogue suddenly came up in my mind.
 
