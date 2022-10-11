@@ -7,7 +7,7 @@ tags: [networking, chinese]
 
 ## Thers is some Chinese
 
-One of my Chinese learning partners posted on his WeChat 江姐：来，我告诉你一个大的秘密 coming with an image of two cats likely talking to each other. I had a chat with a Chinese friend a few minutes also about the security of WeChat. The word 秘密(secret) reminded me of the book about Ciphers & Cryptography. The idea of completing this dialogue suddenly came up in my mind.
+One of my Chinese learning partners posted on his WeChat 江姐：来，我告诉你一个大的秘密 coming with an image of two cats likely talking to each other. I had a chat with a Chinese friend a few minutes also about the privacy of WeChat. The word 秘密(secret) reminded me of the book about Ciphers & Cryptography. The idea of completing this dialogue suddenly came up in my mind.
 
 江姐：来，我告诉你一个大的秘密\
 李哥：啥？你要告诉我啥秘密？\
@@ -41,7 +41,7 @@ HTTP over SSL/TLS uses symmetric and asymmetric encryption because symmetric enc
 
 ## Is WeChat safe?
 
-Surprisingly WeChat does not offer end-to-end encryption. It only supports client-server encryption using the symmetric AES 256 algorithm. Since the mechanism is not end-to-end encryption, it always leaves there the possibility that a 3rd party or WeChat itself snoops or even makes a copy of encrypted messages through backdoor access. We never know what security measures are set in the middle of a transmission.
+Surprisingly WeChat does not offer end-to-end encryption. It only supports client-server encryption using the symmetric AES 256 algorithm. Since the mechanism is not end-to-end encryption, it always leaves there the possibility that a 3rd party or WeChat itself snoops or even makes a copy of messages through backdoor access. We never know what security measures are set in the middle of a transmission.
 
 Text and media messages only live on WeChat servers for 72 and 120 hours respectively and no one even 3rd translation service providers can make use of them for analytical purposes or data mining.
 
