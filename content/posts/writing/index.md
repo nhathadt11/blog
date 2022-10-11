@@ -17,9 +17,9 @@ Writing is a great form of communication. I think that letting words out is some
 
 The mood is improved when writing despite what you are writing as negative feelings from a traumatic event or a pleasant flow of imagination. Letting things out and being visible in words makes the negative feelings more like to go. While expressive and clear sentences would take you a step closer to achievements when you do think about them on paper, board, or screen. When facing words physically, you are also more likely to communicate with the inner self, which gives you a better understanding of yourself as they jointly reflect your experiences.
 
-Writing is a method of learning. Writing force you into doing more finding and processing information. Making a copy of or bookmark others’ works to your own space simply help you maintain a reference to them. While reading does more of consuming information, it’s ok if you already have a deep understanding of the topic, and you can easily catch the ideas. But if it’s not that much, producing a related note or re-write a piece of knowledge in your own words gives you another chance to actually evaluate information and carry out more insights.
+Writing is a method of learning. Writing force you into doing more finding and processing information. Making a copy of or bookmark others’ works to your own space simply help you maintain a reference to them. It's a good way to organize knowledge. Reading does more of consuming information, it’s ok if you already have a level of understanding of the topic, you can easily catch the ideas. Producing a related note or re-writing a piece of knowledge in your own words does even more, they gives you another chance to actually evaluate information and carry out more insights.
 
-Last but not least, writing improves literacy skills since it is formed by the act of reading and writing. The more reading, the more you will feel the need of writing. As a result, you gradually become better at both.
+Last but not least, writing improves literacy skill since literacy is formed by the act of reading and writing ability. The more reading, the more you will feel the need of writing. As a result, you gradually become better at both.
 
 ## References
 
