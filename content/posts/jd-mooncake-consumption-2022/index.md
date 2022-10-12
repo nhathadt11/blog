@@ -30,7 +30,7 @@ A report note based on the writing of [Mooncake Consumption in 2022’s Mid-Autu
 
 ## Conclusions
 
-- People prefers gifting mooncake via e-commerce platform
+- People prefers gifting mooncake on the platform
 - The most preference of mooncake is traditional flavor while the highest growth is non-traditional
 - People care more about their health. Young adulthood consumption grows steadily MOM, preferring nuts flavor which is rich in nutrients and supporting heart health & weight loss. While the middle-aged prefer low sugar which is good in regulating blood sugar, weight control, heart and skin heath
 - The Chinese families or groups gather in festivals and enjoy mooncakes as snakes or desserts
