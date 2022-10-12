@@ -6,6 +6,14 @@
 {{ if not .Site.IsServer }}
 {{ template "_internal/google_analytics.html" . }}
 {{ end }}
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', '{{ .Site.Params.googleAnalytics }}');
+</script>
+  
 {{- with .Site.Params.Social -}}
 <script>feather.replace()</script>
 {{- end -}}

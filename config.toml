@@ -21,6 +21,7 @@ summaryLength = 20
 	customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 	customDarkCss = "css/customdark.css"
 	mode = "auto" # "dark", "auto", "light"
+	googleAnalytics = "G-6B98FZY2PW"
 
 [[menu.main]]
 	name = "Home"
