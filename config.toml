@@ -9,7 +9,7 @@ pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "G-6B98FZY2PW"
 # disqusShortname = "hes-blog"
 
 summaryLength = 20
