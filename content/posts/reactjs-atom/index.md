@@ -9,7 +9,7 @@ tags: [reactjs]
 
 ReactJS - a very popular library for front-end development powered by Facebook. It was influenced by the XHP which is a template engine to generate HTML in PHP language. It was first achieved by a Facebook engineer after a negotiation with his manager to implement the idea of XHP for browser execution.
 
-DOM manipulation is expensive and he wanted the library to intellectually and automatically determine when the necessary changes are in need of updates. The initial diffing algorithm then was built with the complexity of O(3). After a few improvements, the engineers found that it was able to achieve O(1) by approaching a HashMap where every DOM element has its own unique key.
+DOM manipulation is expensive and he wanted the library to intellectually and automatically determine when the necessary changes are in need of updates. The initial diffing algorithm then was built with the complexity of O(n3). After a few improvements, the engineers found that it was able to achieve O(1) by approaching a HashMap where every DOM element has its own unique key.
 
 ReactJS is shipped with the declarative programming paradigm. Everything starts by setting a function similar to (a, b) ⇒ a + b telling the machine to re-calculate the result of a + b whenever value a or b gets changed during execution. In actual implementation, it can be a plain JS function or a class derived from React.Component or React.PureComponent.
 
