@@ -15,7 +15,7 @@ Mathematically, O + T = <3 can be translated as 1 + 2 = <3 or 1 + 2 <= 3 also re
 
 今天通过数字素养发现了一个TWICE的视频 SCIENTIST。
 
-视频里你会看见一个出现很多次的等式。它就是Formula of LOVE（爱情的等式）O + T = <3。
+在视频中你会看见一个出现很多次的等式。它就是Formula of LOVE（爱情的等式）O + T = <3。
 
 网络社区认为，TWICE和粉丝们的关系非常亲密。也就是说ONCE + TWICE = LOVE（我的天，太可爱了）。
 
