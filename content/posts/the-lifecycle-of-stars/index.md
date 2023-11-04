@@ -25,11 +25,7 @@ The lifetime of a main sequence star depends on its mass. The more massive the s
 
 {{< figure src="posts/the-lifecycle-of-stars/images/Untitled 2.png" >}}
 
-# Red dwarfs
-
 Red dwarfs live a biring life, almost unchanging for their trillion year lifespans. At the end of which, they just fade into darkness.
-
-# Sun-like star
 
 Stars like the sun become red giants. In this phase, stars swell to very large radii. When the sun becomes a red giant, it will be two astronomical units across. In the other words, it will have expanded to twice the size of the Earth’s current orbit. During Red Giant phase, stars fuse helium in their cores instead of hydrogen.
 
@@ -51,8 +47,6 @@ At the core of a planetary nebula lies a white dwarf, a small dense object about
 
 {{< figure src="posts/the-lifecycle-of-stars/images/Untitled 7.png" >}}
 
-# High mass star
-
 High mass star do not end their lives as planetary nebulae or white dwarfs, but explode as spectacular supernovae instead. Although they look quite similar to planetary nebulae, supernova reminants like the Crab Nebula are made of quite different material. It is in supernova explosions that all the chemical elements heavier then iron are made. An object is left behind after a supernova explosion, too which, in most cases, is a neutron star.
 
 {{< figure src="posts/the-lifecycle-of-stars/images/Untitled 8.png" >}}
@@ -61,11 +55,9 @@ High mass star do not end their lives as planetary nebulae or white dwarfs, but 
 
 {{< figure src="posts/the-lifecycle-of-stars/images/Untitled 10.png" >}}
 
-# Neutron star
-
 {{< figure src="posts/the-lifecycle-of-stars/images/Untitled 11.png" >}}
 
-Collapsed by its gravity and create magnetic field. The magnetic axis is not align with the rotation axis cause the star to emits radio wave across the universe
+Neutron star is collapsed by its gravity and create magnetic field. The magnetic axis is not align with the rotation axis cause the star to emits radio wave across the universe
 
 {{< figure src="posts/the-lifecycle-of-stars/images/Untitled 12.png" >}}
 

@@ -26,9 +26,9 @@ The transmission of the virus reflects the movement and physical contact of huma
 > An individual develops itself by coming to make physical contact with other individual and making long-distance travel.
 > 
 
-Looking back on Wuhan city, it was known as the beginning of the Covid. It is the capital of Central China’s Hubei province and is one of the top cities in China with notable institutes including higher education, financial centers, and scientific research.
+Looking back on Wuhan city, it was known as the epicenter of the Covid pandemic. However, it serves as the capital of Central China’s Hubei province and ranks one of the top cities in China with notable institutes including higher education, financial centers, and scientific research.
 
 > Some thing may give you a bad impression at the first look but it is actually not.
 > 
 
-A year later, the year writing this post, I came across information relating to Computational Social Network, which appeared to reshape my thinking at that moment.
+A year later, the year of writing this post, I came across information relating to Computational Social Networks, which appeared to reshape and enhance my thinking at that moment.
