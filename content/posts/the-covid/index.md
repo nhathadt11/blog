@@ -9,9 +9,9 @@ September 28, 2022 11:57 AM
 
 The Covid pandemic (新冠肺炎疫情) was first reported in late 2019 in Wuhan city. The pandemic then quickly spread beyond the city and appeared in almost every region in the world. People were first scared and might give China some bad looks and thoughts. It is natural and even I sometimes behaved that way.
 
-News and reports on this topic were constantly in the spotlight. Google search suggestions mirrored global interest in China, as entering keywords related to Wuhan or China consistently led to top suggestions associated with COVID, coronavirus, pandemic, and the like. In addition to these factors, China's economy and technological advancements continued to develop. This led my interest in delving deeper into China, and I even learn some Chinese.
+News and reports on this topic were constantly in the spotlight. Google search suggestions mirrored global interest in China, as entering keywords related to Wuhan or China consistently led to top suggestions associated with COVID, coronavirus, pandemic, and the like. In addition to these factors, China's economy and technological advancements continued to develop. This led my interest in delving deeper into China, and I even learned some Chinese.
 
-There were some reports that were easily accessible on the internet. I was following them almost every single day. Some were grabbed from Google and the National Vietnam government websites. I also tried hitting Baidu with the keyword 越南疫情大数据报告 and found some statistical information. It is not too much but seems more updated when compared to Google. Something similar to this.
+There were some reports that were easily accessible on the internet. I was following them almost every single day. Some were grabbed from Google and the National Vietnam government websites. I also tried hitting Baidu with the keyword 越南疫情大数据报告 and found some statistical information. It is not too much but seems slightly different (maybe different datasource or data were not correct, but they did share the same shape) when compared to Google. Something similar to this.
 
 {{< figure src="posts/the-covid/images/image.png" >}}
 
