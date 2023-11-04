@@ -48,5 +48,10 @@ summaryLength = 20
 	icon = "github"
 	url = "https://github.com/nhathadt11"
 
+[[params.social]]
+	name = "Linkedin"
+	icon = "linkedin"
+	url = "https://linkedin.com/in/nhathadt11"
+
 [taxonomies]
    	tag = "tags"
