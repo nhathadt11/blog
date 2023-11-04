@@ -11,7 +11,7 @@ New是新的意思，Jeans的衣服表达现代人划时代的精神。NewJeans�
 
 NewJeans的歌曲都很好听，突然发现这一首特别好，MV OMG，如下。
 
-Last year, a friend in Korea recommended the emerging girl group NewJeans 뉴진스. They made their official debut with their first title song, Attention. The other features tracks are Ditto, OMG, Hurt, Cookie, and Hype Boy.
+Last year, a Korean friend recommended the emerging girl group NewJeans 뉴진스. They made their official debut with their first title song, Attention. The other featured tracks are Ditto, OMG, Hurt, Cookie, and Hype Boy.
 
 The name "NewJeans" is quite interesting, as it combines "新," which means New, with "Jeans" symbolizing the forward-thinking spirit of modern times. The similarity in pronunciation between "NewJeans" and "New Genes" suggests their aspiration to be the "New Genes" or the "New Generation."
 
