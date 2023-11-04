@@ -15,11 +15,13 @@ Ultimately, the radiation wins and the star blows away the shroud of material, b
 
 {{< figure src="posts/the-lifecycle-of-stars/images/Untitled.png" >}}
 
-Many such stars have protoplanetary discs surrounding them made up of material left over from star formation. Planets form within the disc and eat up the remaining gas and dust. Meanwhile, the pre-main sequence star continues to contract getting hotter and denser. The pre-main sequence phase and planet formation are over quickly. The increase in temperature and density of the star's core leads to the necessary conditions for nuclear fusion, marking the start of the main sequence phase. This is the longest phase of evolution for stars like the sun, which will fuse hydrogen to helium for billions of years. The masses of stars are set at birth, once the parent cloud dissipates.
+Many such stars have protoplanetary discs surrounding them made up of material left over from star formation. Planets form within the disc and eat up the remaining gas and dust. Meanwhile, the pre-main sequence star continues to contract getting hotter and denser. The pre-main sequence phase and planet formation are over quickly.
+
+The increase in temperature and density of the star's core leads to the necessary conditions for nuclear fusion, marking the start of the main sequence phase. This is the longest phase of evolution for stars like the sun, which will fuse hydrogen to helium for billions of years. The masses of stars are set at birth, once the parent cloud dissipates.
 
 {{< figure src="posts/the-lifecycle-of-stars/images/Untitled 1.png" >}}
 
-The lifetime of a main sequence star depends on its mass. The more massive the star, the shorter its lifetime. Massive blue stars like Spica live for only 10 million years. The sun will live for 10 billion years and most red dwarfs live for over a trillion years. What happens after the main sequence also depends on mass. Red dwarfs live a boring life, almost unchanging for their trillion year lifespans. At the end of which, they just fade into darkness. Stars like the sun become red giants. In this phase, stars swell to very large radii. When the sun becomes a red giant, it will be two astronomical units across. In other words, it will have expanded to twice the size of the Earth's current orbit. During the Red Giant phase, stars fuse helium in their cores instead of hydrogen.
+The lifetime of a main sequence star depends on its mass. The more massive the star, the shorter its lifetime. Massive blue stars like Spica live for only 10 million years. The sun will live for 10 billion years and most red dwarfs live for over a trillion years. What happens after the main sequence also depends on mass.
 
 {{< figure src="posts/the-lifecycle-of-stars/images/Untitled 2.png" >}}
 
@@ -29,7 +31,9 @@ Red dwarfs live a biring life, almost unchanging for their trillion year lifespa
 
 # Sun-like star
 
-Stars like the sun become red giants. In this phase, stars swell to very large radii. When the sun becomes a red giant, it will be two astronomical units across. In the other words, it will have expanded to twice the size of the Earth’s current orbit. During Red Giant phase, stars fuse helium in their cores instead of hydrogen. Although, some hydrogen fusion does continue in a shell around the core. Depending on the mass of the star, many different elements can be fused in this way, including oxygen, the very oxygen we breathe. The most massive stars can fuse elements all the way up to iron in successive shells around the core.
+Stars like the sun become red giants. In this phase, stars swell to very large radii. When the sun becomes a red giant, it will be two astronomical units across. In the other words, it will have expanded to twice the size of the Earth’s current orbit. During Red Giant phase, stars fuse helium in their cores instead of hydrogen.
+
+Although, some hydrogen fusion does continue in a shell around the core. Depending on the mass of the star, many different elements can be fused in this way, including oxygen, the very oxygen we breathe. The most massive stars can fuse elements all the way up to iron in successive shells around the core.
 
 {{< figure src="posts/the-lifecycle-of-stars/images/Untitled 3.png" >}}
 

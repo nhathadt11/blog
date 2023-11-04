@@ -33,7 +33,7 @@ Consider the example: a police car is moving west at 20m/s toward a driver who i
 
 ## In case of light
 
-f’ = (square root of (V - v) / (V + v)) x f where V is the speed of light, v is the relative speed between the object producing light and receiving light.
+f’ = square root of((V - v) / (V + v)) x f where V is the speed of light, v is the relative speed between the object producing light and receiving light.
 
 
 {{< figure src="posts/why-do-distant-galaxies-look-red/images/image-2.png" title="Frequency affects sound and color" >}}
@@ -41,8 +41,8 @@ f’ = (square root of (V - v) / (V + v)) x f where V is the speed of light, v i
 
 ## Yes, the Universe is expanding
 
-The Universe is not just a box, it actually alive in 3 posible states: warp, twist, expand. More evidences, especially redshift, verify that the expansion theory throughout the observable universe. As a result, the Universe as a whole is getting bigger, at the same time, getting colder. When traveling back to the past (Big Bang), it was smaller and hotter.
+The Universe is not just a box, it is actually alive in 3 possible states: warp, twist, and expand. Today, more and more evidence, especially redshift, verifies the expansion theory throughout the observable universe. As a result, the Universe as a whole is getting bigger and, at the same time, getting colder. But when returning to the past (Big Bang), it was smaller and hotter.
 
 E = hv = hc / lambda (h is Planck constant)
 
-{{< figure src="posts/why-do-distant-galaxies-look-red/images/image-2.png" title="How wavelength, energy, temperature is when back in time" >}}
+{{< figure src="posts/why-do-distant-galaxies-look-red/images/image-3.png" title="How wavelength, energy, temperature is when back in time" >}}

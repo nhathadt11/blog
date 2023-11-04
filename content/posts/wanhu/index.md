@@ -9,7 +9,7 @@ tags: [chinese, rocket, space]
 
 万户飞天是一个神话故事，讲述的是一个叫万户的明朝官员，他想要飞到天上实现自己的梦想。他坐在椅子上，绑着47支火箭，手里拿着风筝，飞向天空。但是火箭在高空爆炸了，万户也为此献出了生命。这个故事主要表达了古代人们想要飞上天的愿望。万户被公认为“世界航空航天第一人”。
 
-Wanhu Feitian is a mythical story about a Ming Dynasty official named Wanhu who wanted to fly to the sky to realize his dream. He sat on a chair, tied 47 rockets, held a kite in his hand, and flew into the sky. But the rocket exploded at high altitude, and Wanhu also sacrificed his life. This story mainly expresses the ancient people's desire to fly into the sky. Wanhu is recognized as "the world's first aerospace person."
+Wanhu Feitian is a mythical story about a Ming Dynasty official named Wanhu who wanted to fly to the sky to realize his dream. He sat on a chair, tied 47 rockets, held a kite in his hand, and flew into the sky. But the rocket exploded at high altitude, and Wanhu also sacrificed his life. This story mainly expresses the ancient people's desire to fly into the sky. Wanhu is recognized as "the world's first astronaut".
 
 {{< figure src="posts/wanhu/images/moon.png" title="Wanhu on the Moon" >}}
 
