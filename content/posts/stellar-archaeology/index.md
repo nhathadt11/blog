@@ -1,8 +1,8 @@
 ---
-title: "Stellar Archaeology"
+title: "[COCE#3] Stellar Archaeology"
 date: 2023-11-03T20:19:26+07:00
 draft: false
-tags: [astrophysics]
+tags: [astrophysics, coce]
 ---
 
 {{< figure src="posts/stellar-archaeology/images/image.jpg" title="Stellar Archaeology" >}}

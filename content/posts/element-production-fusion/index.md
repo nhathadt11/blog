@@ -1,8 +1,8 @@
 ---
-title: "Element Production (Fusion)"
+title: "[COCE#4] Element Production (Fusion)"
 date: 2023-11-03T20:39:24+07:00
 draft: false
-tags: [astrophysics]
+tags: [astrophysics, coce]
 ---
 
 Why does the Sun shine? Nuclear fusion from H to Fe

@@ -1,8 +1,8 @@
 ---
-title: "Formation of the Heaviest Elements"
+title: "[COCE#6] Formation of the Heaviest Elements"
 date: 2023-11-03T20:16:17+07:00
 draft: false
-tags: [astrophysics]
+tags: [astrophysics, coce]
 ---
 
 The lighter elements are made up in the fusion process that exists in the core of the stars. What about the heavier element?

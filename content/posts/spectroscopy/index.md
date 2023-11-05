@@ -1,8 +1,8 @@
 ---
-title: "Spectroscopy"
+title: "[COCE#5] Spectroscopy"
 date: 2023-11-03T20:11:49+07:00
 draft: false
-tags: [astrophysics]
+tags: [astrophysics, coce]
 ---
 
 Spectroscopy is the technique we use to observe stars in order to figure out their chemical composition.
