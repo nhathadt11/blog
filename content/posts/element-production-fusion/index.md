@@ -5,11 +5,11 @@ draft: false
 tags: [astrophysics, coce]
 ---
 
-Why does the Sun shine? Nuclear fusion from H to Fe
+Why does the sun shine? The Sun's radiance results from the process of nuclear fusion, which transforms hydrogen into other light elements, and ultimately iron (H..Fe).
 
 {{< figure src="posts/element-production-fusion/images/image1.png" title="Star core" >}}
 
-What is actually happening is that 4 atoms of Hydrogen come together in a series of steps that we are going to leave out for now, they form a helium atom. That is made from 2 protons and 2 neutrons. So we have some conversion of 4 protons into 2 neutrons into 1 Helium. This works because there is quantum mechanical tunneling going on. The 4 positively charged protons would actually repel themselves.
+What is actually happening is that 4 atoms of Hydrogen come together in a series of steps that we are going to leave out for now, they form a helium atom. That is made from 2 protons and 2 neutrons. So some conversion of 4 protons into 2 neutrons into 1 Helium. This works because there is quantum mechanical tunneling going on. The 4 positively charged protons would actually repel themselves.
 
 Because this tunneling effect it is hot enough so that these protons can be eventually combined into 1 helium nucleus.
 

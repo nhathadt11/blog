@@ -11,7 +11,7 @@ tags: [chinese, rocket, space]
 
 Wanhu Feitian is a mythical story about a Ming Dynasty official named Wanhu who wanted to fly to the sky to realize his dream. He sat on a chair, tied 47 rockets, held a kite in his hand, and flew into the sky. But the rocket exploded at high altitude, and Wanhu also sacrificed his life. This story mainly expresses the ancient people's desire to fly into the sky. Wanhu is recognized as "the world's first astronaut".
 
-{{< figure src="posts/wanhu/images/moon.png" title="Wanhu on the Moon" >}}
+{{< figure src="posts/wanhu/images/moon.png" title="A Moon crater was named Wanhu" >}}
 
 窜天猴是利用火箭原理制成的一种火箭形状的鞭炮，北方人称之为窜天猴，南方人称之为冲天炮。
 

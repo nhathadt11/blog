@@ -7,7 +7,7 @@ tags: [astrophysics, coce]
 
 The lighter elements are made up in the fusion process that exists in the core of the stars. What about the heavier element?
 
-We have here a few little neutrons and an iron nucleus. This seed nucleus is getting bombarded with these neutrons, and then it is going to swell and turn into a much larger nucleus ⇒ radioactive and neutron-rich. It is an isotope.
+There are a few little neutrons and an iron nucleus. This seed nucleus is getting bombarded with these neutrons, and then it is going to swell and turn into a much larger nucleus ⇒ radioactive and neutron-rich. It is an isotope.
 
 Because it is radioactive, it does not like to stay in this way. In fact, it will all the neutrons are converted into protons. And we end up with a stable element that is much larger than the original iron. It could be a carbon atom or uranium.
 

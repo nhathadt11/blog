@@ -5,7 +5,7 @@ draft: false
 tags: [astrophysics, coce]
 ---
 
-This is gas that was left over after the Big Bang. And here is the first star. Star is not a static object, it actually evolves with time to a red giant and is getting much bigger.
+A ball of gas that was left over after the Big Bang along with the very first star. Star is not a static object, it actually evolves with time to a red giant and is getting much bigger.
 
 What happens in the evolutionary here, there are two possibilities:
 
