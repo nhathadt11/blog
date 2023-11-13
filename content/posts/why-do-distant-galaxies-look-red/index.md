@@ -17,7 +17,7 @@ Similarly, if a star is moving far away from the Earth, the light that a telesco
 
 {{< figure src="posts/why-do-distant-galaxies-look-red/images/image.png" title="Visible Spectrum" >}}
 
-This is called **Doppler effect**, look at the calculus
+This is called **Doppler effect**, look at the calculation
 
 f’ = V / (V + v) x f (when the object letting the sound out is moving)
 
@@ -25,7 +25,7 @@ f’ = (V - v) / V x f (when the object is moving, relative to the air)
 
 Where:
 
-V is the speed of sound, v is the speed of the object perceiving the sound.
+V is the speed of sound and v is the speed of the object perceiving the sound.
 
 Consider the example: a police car is moving west at 20m/s toward a driver who is moving east at 25m/s. The police car emits a frequency of 900 Hz. What frequency is detected by the driver? (The speed of sound in air at 20C is 343m/s).
 
@@ -33,10 +33,10 @@ Consider the example: a police car is moving west at 20m/s toward a driver who i
 
 ## In case of light
 
-f’ = square root of((V - v) / (V + v)) x f where V is the speed of light, v is the relative speed between the object producing light and receiving light.
+f’ = square root of((V - v) / (V + v)) x f where V is the speed of light and v is the relative speed between the object producing light and receiving light.
 
 
-{{< figure src="posts/why-do-distant-galaxies-look-red/images/image-2.png" title="Frequency affects sound and color" >}}
+{{< figure src="posts/why-do-distant-galaxies-look-red/images/image-2.png" title="How frequency is related to sound and color" >}}
 
 
 ## Yes, the Universe is expanding
@@ -45,4 +45,4 @@ The Universe is not just a box, it is actually alive in 3 possible states: warp,
 
 E = hv = hc / lambda (h is Planck constant)
 
-{{< figure src="posts/why-do-distant-galaxies-look-red/images/image-3.png" title="How wavelength, energy, temperature is when back in time" >}}
+{{< figure src="posts/why-do-distant-galaxies-look-red/images/image-3.png" title="How are wavelength, energy, and temperature related when back in time?" >}}

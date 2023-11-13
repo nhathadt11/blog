@@ -13,7 +13,7 @@ News and reports on this topic were constantly in the spotlight. Google search s
 
 There were some reports that were easily accessible on the internet. I was following them almost every single day. Some were grabbed from Google and the National Vietnam government websites. I also tried hitting Baidu with the keyword 越南疫情大数据报告 and found some statistical information. It is not too much but seems slightly different (maybe different datasource or data were not correct, but they did share the same shape) when compared to Google. Something similar to this.
 
-{{< figure src="posts/the-covid/images/image.png" >}}
+{{< figure src="posts/the-covid/images/image.png" title="越南疫情大数据报告" >}}
 
 Supporting to these kinds of report is that the geographic distribution graph of COVID-19 highlighted a significant concentration of infections within urban centers. Within a given country, major cities seemed to be the initial locations where confirmed cases emerged, with subsequent cases also reported in other densely populated urban centers. Hence, there appears to be a correlation between the movement of people from large cities to other large cities or countries and the transmission of the virus.
 
@@ -31,4 +31,4 @@ Looking back on Wuhan city, it was known as the epicenter of the Covid pandemic.
 > Some thing may give you a bad impression at the first look but it is actually not.
 > 
 
-A year later, the year of writing this post, I came across information relating to Computational Social Networks, which appeared to reshape and enhance my thinking at that moment.
+These are reflections I recorded during the COVID-19 pandemic. A year later, I came across information relating to Computational Social Networks, which appeared to help correct my thinking at that moment.
