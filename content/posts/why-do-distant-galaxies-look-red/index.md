@@ -7,7 +7,7 @@ tags: [astrophysics]
 
 ## An example with sound
 
-Simple explanation comes from the pitch of sound. When an ambulance is passing in front of you the pitch is going up. Imagine an ambulance is approaching close to you, the pitch of the siren will be going up. When it passes through and far away (receding) from you, the pitch will be going down. From these observations, we can draw some comments:
+A simple explanation comes from the pitch of sound. When an ambulance is passing in front of you the pitch is going up. Imagine an ambulance is approaching close to you, the pitch of the siren will be going up. When it passes through and far away (receding) from you, the pitch will be going down. From these observations, we can draw some comments:
 
 - Approaching object gives away high pitch sound
 - Receding object gives away low pitch sound
