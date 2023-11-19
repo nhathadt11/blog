@@ -21,3 +21,4 @@ The Sky Rocket is a rocket-shaped firecracker made using the rocket principle. N
 
 ## References
 - NASA https://www.grc.nasa.gov/www/k-12/rocket/BottleRocket/13thru16.htm
+- Baike https://baike.baidu.com/item/%E4%B8%87%E6%88%B7%E9%A3%9E%E5%A4%A9/8882998
