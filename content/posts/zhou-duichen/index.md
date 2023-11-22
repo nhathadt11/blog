@@ -7,7 +7,7 @@ tags: [chinese, poem]
 
 2022-10-09
 
-I have created poems in several different languages that I have learned. Here is a Chinese one called Mid-Autumn Axial Symmetry (中秋节的轴对称). It does not strictly comply with the traditional rules of Chinese poetry.
+I have created several poems in different languages that I have learned. Here is a Chinese one called Mid-Autumn Axial Symmetry (中秋节的轴对称). It does not strictly comply with the traditional rules of Chinese poetry, though.
 
 九月九日 (Jiǔ yuè jiǔ rì) - September 9\
 月亮发光 (Yuèliàng fāguāng) - The Moon glows\
@@ -19,4 +19,4 @@ I have created poems in several different languages that I have learned. Here is
 
 The concept behind this poem's creation is that I have taken the middle phrase to serve as the x-axis, arranging phrases and sentences symmetrically with respect to the phrase. It does not take a symmetry-specific shape, instead, it acts as a framework for words to fill. The lower section (negative y) suggests the reason for the occurrence of the upper section (positive y).
 
-The starting point, the phrase 变个月饼, actually originated from the writing of one of my Chinese friends; she wrote 变个艺术.
+The starting point, the phrase 变个月饼, actually originated from the writing of a Chinese friend; she wrote 变个艺术.

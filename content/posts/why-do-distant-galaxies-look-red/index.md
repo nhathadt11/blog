@@ -17,7 +17,7 @@ Similarly, if a star is moving far away from the Earth, the light that a telesco
 
 {{< figure src="posts/why-do-distant-galaxies-look-red/images/image.png" title="Visible Spectrum" >}}
 
-This is called **Doppler effect**, look at the calculation
+This is called **Doppler effect**, and now comes the calculation:
 
 f’ = V / (V + v) x f (when the object letting the sound out is moving)
 
@@ -41,7 +41,7 @@ f’ = square root of((V - v) / (V + v)) x f where V is the speed of light and v
 
 ## Yes, the Universe is expanding
 
-The Universe is not just a box, it is actually alive in 3 possible states: warp, twist, and expand. Today, more and more evidence, especially redshift, verifies the expansion theory throughout the observable universe. As a result, the Universe as a whole is getting bigger and, at the same time, getting colder. But when returning to the past (Big Bang), it was smaller and hotter.
+The Universe is not static, it rather exists in 3 possible states: warp, twist, and expand. Today, more and more evidence, especially redshift, verifies the expansion theory throughout the observable universe. As a result, the Universe as a whole is getting bigger and, at the same time, getting colder. When returning to the past (Big Bang), it was smaller and hotter.
 
 E = hv = hc / lambda (h is Planck constant)
 
