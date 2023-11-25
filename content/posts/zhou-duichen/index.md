@@ -20,3 +20,5 @@ I have created several poems in different languages that I have learned. Here is
 The concept behind this poem's creation is that I have taken the middle phrase to serve as the x-axis, arranging phrases and sentences symmetrically with respect to the phrase. It does not take a symmetry-specific shape, instead, it acts as a framework for words to fill. The second event (negative y) suggests the reason for the occurrence of the first event (positive y).
 
 The starting point, the phrase 变个月饼, actually originated from the writing of a Chinese friend; she wrote 变个艺术.
+
+{{< figure src="posts/zhou-duichen/images/chibigirl.jpeg" width="50%" >}}
