@@ -5,6 +5,8 @@ draft: false
 tags: [physics, astrophysics]
 ---
 
+There are things that I don't know yet, but their hierarchical organization makes it easier to understand and navigate through them. Physics is a framework to explore things around and unlock the mysteries of the universe. It is very close to math and can serve as a tool to communicate with a wise array of other fields of science, super interesting!
+
 {{< figure src="https://www.mermaidchart.com/raw/30f76141-2bcd-4910-9f16-07312f00b0dc?theme=light&version=v0.1&format=png" title="The History of Unification" >}}
 
-{{< figure src="https://www.mermaidchart.com/raw/de8111d4-bc48-4fc0-950b-e8d92723c038?theme=light&version=v0.1&format=png" title="Theory of Everything" >}}
+{{< figure src="https://www.mermaidchart.com/raw/de8111d4-bc48-4fc0-950b-e8d92723c038?theme=light&version=v0.1&format=png" title="The Theory of Everything" >}}
