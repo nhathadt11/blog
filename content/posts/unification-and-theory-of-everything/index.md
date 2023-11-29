@@ -2,7 +2,7 @@
 title: "The map of history of Unification and theory of Everything"
 date: 2023-11-26T17:42:53+07:00
 draft: false
-tags: [physics, astrophysics]
+tags: [physics, astrophysics, theoretical physics]
 ---
 
 There are things that I don't know yet, but their hierarchical organization makes it easier to memorize, understand and navigate through them. Physics is a great framework to explore the world around and unlock the mysteries of the universe. It is heavily based on mathematics to describe physical phenomena and can serve as a tool to understand many other fields of science. It also provides insights of technology capabilities and limitations at a low physical level. Super interesting!
