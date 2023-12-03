@@ -1,8 +1,8 @@
 ---
-title: "Exoplanets"
+title: "[DDA#2] Exoplanets"
 date: 2023-11-08T17:44:28+07:00
 draft: false
-tags: [astrophysics]
+tags: [astrophysics, dda]
 ---
 
 ## Exoplanets
