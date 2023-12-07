@@ -22,6 +22,7 @@ summaryLength = 20
 	customDarkCss = "css/customdark.css"
 	mode = "auto" # "dark", "auto", "light"
 	googleAnalytics = "G-6B98FZY2PW"
+	katex = true
 
 [[menu.main]]
 	name = "Home"
