@@ -7,16 +7,16 @@ tags: [virtual, aviation]
 
 Physical effects such as g-force cannot be experienced at home but during real flights. The same thing happens when going upstairs in an elevator: body weight changes and the brain informs me when the change is sudden during acceleration and deceleration. This signal can be used to detect vertical speed (VS) changes during a real flight.
 
-## Boeing 777F Crosswind landing practice in VVNB
+## Boeing 777F Crosswind landing practice in VVNB (Noi Bai International Airport)
 {{< youtube _pfmjvIxQP0 >}}
 
-## TBM900 VFR flying practice in VHHX
+## TBM900 VFR flying practice in VHHX - (Kai Tak Airport - Hong Kong)
 {{< youtube senNtubSI1Y >}}
 
-## MD-11 Landing practice in LFPG - 1
+## MD-11 Landing practice in LFPG (Charles de Gaulle Airport) - 1
 {{< youtube A-SzIP9U2_8 >}}
 
-## MD-11 Landing practice in LFPG - 2
+## MD-11 Landing practice in LFPG - (Charles de Gaulle Airport) - 2
 {{< youtube 57vDt0c5eMw >}}
 
 ## TBM900 ATC (Air Traffic Control) practice in KJFK (John F. Kennedy International Airport - New York)
@@ -28,8 +28,11 @@ Physical effects such as g-force cannot be experienced at home but during real f
 ## A321 CEO Turnaround practice in WSSS (Changi Airport)
 {{< youtube QKOjMFsI50E >}}
 
-## Models from satellite imaginary
+## Mesh scenery and model from satellite imaginary
+
 {{< figure src="posts/virtual-aviation/images/VVTS.png" title="VVTS" >}}
 {{< figure src="posts/virtual-aviation/images/VVDN.png" title="VVDN" >}}
 {{< figure src="posts/virtual-aviation/images/VVNB.png" title="VVNB" >}}
+
+Very accurate 3D models of Shanghai, manually built by the community, sits on top of the mesh scenery. They look so realistic.
 {{< figure src="posts/virtual-aviation/images/shanghai.png" title="上海" >}}
