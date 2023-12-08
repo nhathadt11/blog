@@ -18,3 +18,9 @@ Physical effects such as g-force cannot be experienced at home, but I do during 
 
 ## MD-11 Landing practice in LFPG - 2
 {{< youtube 57vDt0c5eMw >}}
+
+## Models from satellite imaginary
+{{< figure src="posts/virtual-aviation/images/VVTS.png" title="VVTS" >}}
+{{< figure src="posts/virtual-aviation/images/VVDN.png" title="VVDN" >}}
+{{< figure src="posts/virtual-aviation/images/VVNB.png" title="VVNB" >}}
+{{< figure src="posts/virtual-aviation/images/shanghai.png" title="上海" >}}
