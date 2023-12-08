@@ -19,6 +19,12 @@ Physical effects such as g-force cannot be experienced at home but during real f
 ## MD-11 Landing practice in LFPG - 2
 {{< youtube 57vDt0c5eMw >}}
 
+## TBM900 ATC (Air Traffic Control) practice in KJFK (John F. Kennedy International Airport - New York)
+{{< youtube 7idwqWVSP84 >}}
+
+## TBM900 VFR & ATC practice in KSFO (San Francisco International Airport)
+{{< youtube poMe27NNee8 >}}
+
 ## Models from satellite imaginary
 {{< figure src="posts/virtual-aviation/images/VVTS.png" title="VVTS" >}}
 {{< figure src="posts/virtual-aviation/images/VVDN.png" title="VVDN" >}}
