@@ -25,14 +25,14 @@ Physical effects such as g-force cannot be experienced at home but during real f
 ## TBM900 IFR & ATC practice in KSFO (San Francisco International Airport)
 {{< youtube poMe27NNee8 >}}
 
-## A321 CEO Turnaround practice in WSSS (Changi Airport)
+## A321CEO CFM Go-around practice in WSSS (Changi Airport)
 {{< youtube QKOjMFsI50E >}}
 
 ## Mesh scenery and model from satellite imaginary
 
-{{< figure src="posts/virtual-aviation/images/VVTS.png" title="VVTS" >}}
-{{< figure src="posts/virtual-aviation/images/VVDN.png" title="VVDN" >}}
-{{< figure src="posts/virtual-aviation/images/VVNB.png" title="VVNB" >}}
+{{< figure src="posts/virtual-aviation/images/VVTS.png" title="VVTS - Tan Son Nhat International Airport" >}}
+{{< figure src="posts/virtual-aviation/images/VVDN.png" title="VVDN - Da Nang International Airport" >}}
+{{< figure src="posts/virtual-aviation/images/VVNB.png" title="VVNB - Noi Bai International Airport" >}}
 
 Very accurate 3D models of Shanghai, manually built by the community, sits on top of the mesh scenery. They look so realistic.
-{{< figure src="posts/virtual-aviation/images/shanghai.png" title="上海" >}}
+{{< figure src="posts/virtual-aviation/images/shanghai.png" title="黄浦江流经上海市 - Shanghai City and Huangpu River" >}}
