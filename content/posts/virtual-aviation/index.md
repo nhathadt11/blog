@@ -13,11 +13,8 @@ Physical effects such as g-force cannot be experienced at home but during real f
 ## TBM900 VFR flying practice in VHHX - (Kai Tak Airport - Hong Kong)
 {{< youtube senNtubSI1Y >}}
 
-## MD-11 Landing practice in LFPG (Charles de Gaulle Airport) - 1
-{{< youtube A-SzIP9U2_8 >}}
-
-## MD-11 Landing practice in LFPG - (Charles de Gaulle Airport) - 2
-{{< youtube 57vDt0c5eMw >}}
+## MD-11 ILS Landing practice in LFPG (Charles de Gaulle Airport)
+{{< youtube 5W0YPFBAA-8 >}}
 
 ## TBM900 ATC (Air Traffic Control) practice in KJFK (John F. Kennedy International Airport - New York)
 {{< youtube 7idwqWVSP84 >}}
