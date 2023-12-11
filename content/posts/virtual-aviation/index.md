@@ -5,7 +5,7 @@ draft: false
 tags: [virtual, aviation]
 ---
 
-Physical effects such as g-force cannot be experienced at home but during real flights. The same thing happens when going upstairs in an elevator: body weight changes and the brain informs me when the change is sudden during acceleration and deceleration. This signal can be used to detect vertical speed (VS) changes during a real flight.
+Physical effects such as g-force cannot be experienced in simulation but during real flights. The same thing happens when going upstairs or downstairs in an elevator: body weight changes and the brain informs me when the change is sudden during acceleration and deceleration. This signal can be used to detect vertical speed (VS) changes during a real flight.
 
 ## Boeing 777F Crosswind landing practice in VVNB (Noi Bai International Airport)
 {{< youtube _pfmjvIxQP0 >}}
