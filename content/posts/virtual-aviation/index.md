@@ -25,7 +25,7 @@ Physical effects such as g-force cannot be experienced in simulation but during 
 ## A321CEO CFM Go-around practice in WSSS (Changi Airport)
 {{< youtube QKOjMFsI50E >}}
 
-## Mesh scenery and model from satellite imaginary
+## Mesh scenery and model from satellite imagery
 
 {{< figure src="posts/virtual-aviation/images/VVTS.png" title="VVTS - Tan Son Nhat International Airport" >}}
 {{< figure src="posts/virtual-aviation/images/VVDN.png" title="VVDN - Da Nang International Airport" >}}
