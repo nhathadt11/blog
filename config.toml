@@ -54,5 +54,15 @@ summaryLength = 20
 	icon = "linkedin"
 	url = "https://linkedin.com/in/nhathadt11"
 
+[[params.social]]
+	name = "Mail"
+	icon = "mail"
+	url = "mailto:me@nhatha.dev"
+
+[[params.social]]
+	name = "Key"
+	icon = "key"
+	url = "https://keyserver.ubuntu.com/pks/lookup?search=me%40nhatha.dev&fingerprint=on&op=index"
+
 [taxonomies]
    	tag = "tags"
