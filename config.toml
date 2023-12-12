@@ -64,5 +64,10 @@ summaryLength = 20
 	icon = "key"
 	url = "https://keyserver.ubuntu.com/pks/lookup?search=me%40nhatha.dev&fingerprint=on&op=index"
 
+[[params.social]]
+	name = "RSS"
+	icon = "rss"
+	url = "/index.xml"
+
 [taxonomies]
    	tag = "tags"
