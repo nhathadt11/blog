@@ -1,0 +1,15 @@
+<script>
+window.store = {
+    {{ range .Site.Pages }}
+    "{{ .Permalink }}": {
+        "title": "{{ .Title }}",
+        "tags": [{{ range .Params.Tags }}"{{ . }}",{{ end }}],
+        "content": {{ .Content | plainify }}, // Strip out HTML tags
+        "url": "{{ .Permalink }}"
+    },
+    {{ end }}
+}
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" crossorigin="anonymous"></script>
+<script src="js/search.js"></script>

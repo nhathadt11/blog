@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    {{ partial "header.html" . }}
+
+    <body>
+        <div class="container wrapper tags">
+            {{ partial "head.html" . }}
+
+            <h1 class="page-title">{{ .Title }}</h1>
+
+            {{ with .Content }}{{ . }}{{ end }}
+
+            {{ partial "search-form.html" . }}
+
+            <ul id="results">
+                <li>
+                    Enter a keyword above to search this site.
+                </li>
+            </ul>
+
+            {{ partial "search-index.html" . }}
+        </div>
+
+        {{ partial "footer.html" . }}
+    </body>
+
+</html>
