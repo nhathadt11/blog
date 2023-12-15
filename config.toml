@@ -60,6 +60,11 @@ summaryLength = 20
 	url = "https://linkedin.com/in/nhathadt11"
 
 [[params.social]]
+	name = "Twitter"
+	icon = "twitter"
+	url = "https://twitter.com/nhathadt11"
+
+[[params.social]]
 	name = "Mail"
 	icon = "mail"
 	url = "mailto:me@nhatha.dev"
