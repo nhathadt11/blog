@@ -13,6 +13,10 @@ a, a:hover, .post .draft-label {
     color: #000;
 }
 
+div.highlight > pre {
+    font-size: 14px;
+}
+
 .wrapper {
     max-width: 640px;
 }
