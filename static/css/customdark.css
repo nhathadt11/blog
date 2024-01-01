@@ -1,8 +1,63 @@
-a, a:hover {
+html[data-theme="dark"] body {
+    color: #ddd;
+    background-color: #000;
+}
+html[data-theme="dark"] ::-moz-selection {
+    background: #666;
+    text-shadow: none;
+}
+html[data-theme="dark"] ::selection {
+    background: #666;
+    text-shadow: none;
+}
+html[data-theme="dark"] hr {
+    border-color: #333;
+}
+html[data-theme="dark"] blockquote {
+    border-color: #ddd;
+}
+html[data-theme="dark"] h1, html[data-theme="dark"] h2, html[data-theme="dark"] h3, html[data-theme="dark"] h4, html[data-theme="dark"] h5, html[data-theme="dark"] h6 {
     color: #ddd;
 }
-
-.header > .spotify {
+html[data-theme="dark"] a, html[data-theme="dark"] a:hover {
+    color: #ff7979;
+    text-decoration: none;
+}
+html[data-theme="dark"] .site-description a, html[data-theme="dark"] .site-description a:hover {
+    color: #ddd;
+    text-decoration: underline;
+}
+html[data-theme="dark"] a:hover {
+    opacity: 0.8;
+}
+html[data-theme="dark"] .post-tags .tags a {
+    border: 1px solid #ddd;
+    color: #ddd;
+}
+html[data-theme="dark"] .site-title a {
+    color: #ddd;
+    text-decoration: none !important;
+}
+html[data-theme="dark"] .header nav, html[data-theme="dark"] .footer {
+    border-color: #333;
+}
+html[data-theme="dark"] .highlight {
+    background-color: #333;
+}
+html[data-theme="dark"] table th {
+    background-color: #333;
+}
+html[data-theme="dark"] table th, html[data-theme="dark"] table td {
+    padding: 10px 20px;
+    border: 1px solid #666;
+}
+html[data-theme="dark"] pre code {
+    display: inline-block;
+}
+html[data-theme="dark"] a, html[data-theme="dark"] a:hover {
+    color: #ddd;
+}
+html[data-theme="dark"] .header > .spotify {
     -webkit-filter: grayscale(100%);
     -moz-filter: grayscale(100%);
     -ms-filter: grayscale(100%);
