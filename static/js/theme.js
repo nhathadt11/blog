@@ -51,14 +51,14 @@
 
   function getCurrentSystemTheme() {
     if (isCurrentSystemThemeLight()) {
-      return 'dark'
+      return 'light'
     }
 
-    return 'light'
+    return 'dark'
   }
 
   function isCurrentSystemThemeLight() {
     return window.matchMedia
-      && window.matchMedia('(prefers-color-scheme: dark)').matches
+      && window.matchMedia('(prefers-color-scheme: light)').matches
   }
 })()
