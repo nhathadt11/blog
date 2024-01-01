@@ -23,6 +23,7 @@ summaryLength = 20
 	mode = "auto" # "dark", "auto", "light"
 	googleAnalytics = "G-6B98FZY2PW"
 	katex = true
+	themeToggle = true
 
 [[menu.main]]
 	name = "Home"
@@ -48,6 +49,16 @@ summaryLength = 20
 	name = "About"
 	url = "/about"
 	weight = 5
+
+[[params.social]]
+	name = "Sun"
+	icon = "sun"
+	display = "none"
+
+[[params.social]]
+	name = "Moon"
+	icon = "moon"
+	display = "none"
 
 [[params.social]]
 	name = "Github"
