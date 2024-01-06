@@ -3,6 +3,7 @@
 
 body {
     font-family: "Roboto Slab", "Noto Emoji";
+    transition: background-color 0.15s ease-in;
 }
 
 h1,h2,h3,h4,h5,h6 {
