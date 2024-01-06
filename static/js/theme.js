@@ -7,10 +7,12 @@
     sun.addEventListener('click', function (e) {
       e.preventDefault()
       showLight(html, sun, moon)
+      setThemePreference('light')
     })
     moon.addEventListener('click', function (e) {
       e.preventDefault()
       showDark(html, sun, moon)
+      setThemePreference('dark')
     })
 
     theme = getThemePreference()
@@ -25,14 +27,12 @@
     html.dataset.theme = 'dark';
     moon.style.display = 'none'
     sun.style.display = 'inline'
-    setThemePerference('dark')
   }
 
   function showLight(html, sun, moon) {
     html.dataset.theme = 'light';
     moon.style.display = 'inline'
     sun.style.display = 'none'
-    setThemePerference('light')
   }
 
   function getThemePreference() {
@@ -45,7 +45,7 @@
     return theme
   }
 
-  function setThemePerference(theme) {
+  function setThemePreference(theme) {
     localStorage.setItem('pref-theme', theme)
   }
 
