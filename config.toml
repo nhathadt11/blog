@@ -1,9 +1,9 @@
 baseURL = 'https://nhathadt11.github.io/blog/'
 languageCode = 'en-us'
-title = "nhatha.dev"
+title = "nhatha.me"
 theme = "ezhil"
 
-copyright = "© nhatha.dev"
+copyright = "© nhatha.me"
 
 pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
