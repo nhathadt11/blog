@@ -37,6 +37,10 @@ div.highlight > pre {
     color: #5d686f;
 }
 
+.post .markdown a[href] {
+    text-decoration: underline;
+}
+
 .posts .post a.title {
     font-size: 1.4rem;
 }
