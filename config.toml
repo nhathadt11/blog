@@ -71,6 +71,11 @@ summaryLength = 20
 	url = "https://linkedin.com/in/nhathadt11"
 
 [[params.social]]
+	name = "File"
+	icon = "file"
+	url = "https://mega.nz/file/ItxyEBAb#slXd8Bn3yhzD8ZNY-viKxcEUFEvfBYxIYJnoLHi5UE4"
+
+[[params.social]]
 	name = "Twitter"
 	icon = "twitter"
 	url = "https://twitter.com/nhathadt11"
