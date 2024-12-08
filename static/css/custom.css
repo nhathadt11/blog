@@ -16,6 +16,7 @@ a, a:hover, .post .draft-label {
 
 div.highlight > pre {
     font-size: 14px;
+    line-height: 1;
 }
 
 .wrapper {
@@ -24,7 +25,7 @@ div.highlight > pre {
 
 .post blockquote {
     border-color: #000;
-    font-size: 1.15rem;
+    font-size: 1rem;
     font-family: inherit;
 }
 
