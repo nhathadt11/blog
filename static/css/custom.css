@@ -22,6 +22,7 @@ div.highlight > pre {
 
 .wrapper {
     max-width: 640px;
+    font-size: 0.95rem;
 }
 
 .post blockquote {
