@@ -5,6 +5,7 @@
 body {
     font-family: "Lora", "Noto Serif KR", "Noto Serif SC", "Noto Emoji";
     transition: background-color 0.15s ease-in;
+    line-height: 1.5;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -17,12 +18,10 @@ a, a:hover, .post .draft-label {
 
 div.highlight > pre {
     font-size: 14px;
-    line-height: 1;
 }
 
 .wrapper {
-    max-width: 640px;
-    font-size: 0.95rem;
+    max-width: 720px;
 }
 
 .post blockquote {
