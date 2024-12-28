@@ -20,10 +20,6 @@ div.highlight > pre {
     font-size: 14px;
 }
 
-.wrapper {
-    max-width: 720px;
-}
-
 .post blockquote {
     border-color: #000;
     font-size: 1rem;
