@@ -22,8 +22,8 @@ summaryLength = 20
 	customDarkCss = "css/customdark.css"
 	mode = "auto" # "dark", "auto", "light"
 	googleAnalytics = "G-6B98FZY2PW"
-	katex = true
 	themeToggle = true
+	math = true
 
 [[menu.main]]
 	name = "Home"
@@ -97,3 +97,12 @@ summaryLength = 20
 
 [taxonomies]
    	tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
