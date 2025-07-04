@@ -1,51 +1,108 @@
 baseURL = 'https://nhathadt11.github.io/blog/'
 languageCode = 'en-us'
-title = "Rihe's Blog"
+title = "nhatha.me"
 theme = "ezhil"
 
-copyright = "© Rihe"
+copyright = "© nhatha.me"
 
 pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "G-6B98FZY2PW"
 # disqusShortname = "hes-blog"
 
 summaryLength = 20
 
 [params]
-	subtitle = "Personal blog "
+	subtitle = "Personal blog"
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 	customDarkCss = "css/customdark.css"
 	mode = "auto" # "dark", "auto", "light"
+	googleAnalytics = "G-6B98FZY2PW"
+	themeToggle = true
+	math = true
 
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+	name = "Home"
+	url = "/"
+	weight = 1
 
 [[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
+	name = "All posts"
+	url = "/posts"
+	weight = 2
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 3
+	name = "Tags"
+	url = "/tags"
+	weight = 3
+
+[[menu.main]]
+	name = "Search"
+	url = "/search"
+	weight = 4
+
+[[menu.main]]
+	name = "About"
+	url = "/about"
+	weight = 5
 
 [[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/nhathadt11"
+	name = "Sun"
+	icon = "sun"
+	display = "none"
 
 [[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
+	name = "Moon"
+	icon = "moon"
+	display = "none"
+
+[[params.social]]
+	name = "Github"
+	icon = "github"
+	url = "https://github.com/nhathadt11"
+
+[[params.social]]
+	name = "Linkedin"
+	icon = "linkedin"
+	url = "https://linkedin.com/in/nhathadt11"
+
+[[params.social]]
+	name = "File"
+	icon = "file"
+	url = "https://mega.nz/file/ItxyEBAb#slXd8Bn3yhzD8ZNY-viKxcEUFEvfBYxIYJnoLHi5UE4"
+
+[[params.social]]
+	name = "Twitter"
+	icon = "twitter"
+	url = "https://twitter.com/nhathadt11"
+
+[[params.social]]
+	name = "Mail"
+	icon = "mail"
+	url = "mailto:me@nhatha.dev"
+
+[[params.social]]
+	name = "Key"
+	icon = "key"
+	url = "https://keyserver.ubuntu.com/pks/lookup?search=me%40nhatha.dev&fingerprint=on&op=index"
+
+[[params.social]]
+	name = "RSS"
+	icon = "rss"
+	url = "/index.xml"
 
 [taxonomies]
-   tag = "tags"
+   	tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]

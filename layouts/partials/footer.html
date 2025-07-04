@@ -1,0 +1,23 @@
+<div class="footer wrapper">
+	<nav class="nav">
+		<div>{{ with .Site.Copyright }} {{ . }} | {{ end }} Built with <a href="https://gohugo.io">Hugo</a></div>
+	</nav>
+</div>
+{{ if not .Site.IsServer }}
+{{ template "_internal/google_analytics.html" . }}
+{{ end }}
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', '{{ .Site.Params.googleAnalytics }}');
+</script>
+  
+{{- with .Site.Params.Social -}}
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+		feather.replace()
+	})
+</script>
+{{- end -}}

@@ -1,7 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Noto+Serif+KR:wght@200..900&family=Noto+Serif+SC:wght@200..900&display=swap');
+/* @import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap'); */
+@import url('https://fonts.googleapis.com/css?family=Noto+Emoji&display=swap');
 
 body {
-    font-family: "Roboto Slab";
+    font-family: "Lora", "Noto Serif KR", "Noto Serif SC", "Noto Emoji";
+    transition: background-color 0.15s ease-in;
+    line-height: 1.5;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -12,18 +16,60 @@ a, a:hover, .post .draft-label {
     color: #000;
 }
 
-.wrapper {
-    max-width: 640px;
+div.highlight > pre {
+    font-size: 14px;
 }
 
-.post-tags .tags a, blockquote {
+.post blockquote {
     border-color: #000;
+    font-size: 1rem;
+    font-family: inherit;
+}
+
+.post-tags .tags a {
+    border-color: #000;
+    color: #000;
 }
 
 .post .post-content {
     color: #5d686f;
 }
 
+.post .markdown a[href] {
+    text-decoration: underline;
+}
+
 .posts .post a.title {
     font-size: 1.4rem;
+}
+
+.post figcaption > h4 {
+    font-style: italic;
+    color: #999;
+}
+
+ul#results {
+    list-style: disc;
+}
+
+input#search-input {
+    padding: 5px 9px;
+    margin-top: 1em
+}
+
+form#search > button[type="submit"] {
+    padding: 3px 9px;
+    margin-top: 1em
+}
+
+form#search > button > a {
+    color: #333;
+}
+
+.header > .spotify {
+    -webkit-filter: grayscale(100%) invert(1);
+    -moz-filter: grayscale(100%) invert(1);
+    -ms-filter: grayscale(100%) invert(1);
+    -o-filter: grayscale(100%) invert(1);
+    filter: grayscale(100%) invert(1);
 }
