@@ -1,9 +1,9 @@
 baseURL = 'https://nhathadt11.github.io/blog/'
 languageCode = 'en-us'
-title = "nhatha.me"
+title = "nhathadt11"
 theme = "ezhil"
 
-copyright = "© nhatha.me"
+copyright = "© nhathadt11"
 
 pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
@@ -83,7 +83,7 @@ summaryLength = 20
 [[params.social]]
 	name = "Mail"
 	icon = "mail"
-	url = "mailto:me@nhatha.dev"
+	url = "mailto:nhathadt11@gmail.com"
 
 [[params.social]]
 	name = "Key"
